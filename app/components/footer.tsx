@@ -58,7 +58,7 @@ export default function Footer() {
                     <circle cx="12" cy="10" r="3"></circle>
                   </svg>
                 </div>
-                <span>Rua das Flores, 123<br />Sala 404 - Centro<br />São Paulo, SP</span>
+                <span>Rua das Flores, 123<br />Sala 404 - Centro<br />Videra, SC</span>
               </li>
 
               <li className="flex items-center gap-3 text-sm text-charcoal/80">
@@ -67,7 +67,7 @@ export default function Footer() {
                     <path d="M13.832 16.568a1 1 0 0 0 1.213-.303l.355-.465A2 2 0 0 1 17 15h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2A18 18 0 0 1 2 4a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v3a2 2 0 0 1-.8 1.6l-.468.351a1 1 0 0 0-.292 1.233 14 14 0 0 0 6.392 6.384"></path>
                   </svg>
                 </div>
-                <span>(11) 99999-9999</span>
+                <span>(85) 9 9719-7339</span>
               </li>
 
               <li className="flex items-center gap-3 text-sm text-charcoal/80">
@@ -77,7 +77,7 @@ export default function Footer() {
                     <rect x="2" y="4" width="20" height="16" rx="2"></rect>
                   </svg>
                 </div>
-                <span>contato@neurovida.com.br</span>
+                <span>neuro_vida@gmail.com.br</span>
               </li>
             </ul>
 
